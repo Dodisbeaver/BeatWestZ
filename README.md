@@ -22,6 +22,17 @@
                  The core loop. Start level -> Move towards right -> Kill zombie(s) -> Kill boss -> Go to next level.</p>
                  <p id="paragraf">Mechanics: Picking up health, bullets. Shooting gun. Defending horse. A gun duel will be in one level. </p>
                  <p id="paragraf">Zombies will move towards horse or player depending on type. A boss fight will appear at the end of the level </p>
-          </container>
+           </container>
+           <container>
+                      <h3>Credits</h3>
+                      <h5>Characters based on:</h5>
+                      <p> https://willipixel.itch.io/wild-west-characters</p>
+                      <h5>Tilesets</h5>
+                      <p> https://bazzy1985.itch.io/16x16-western-tileset-for-platformer</p>
+                      <p>https://bazzy1985.itch.io/16x16-western-tileset-for-platformer</p>
+                      <p>https://willipixel.itch.io/train-and-wagons-free</p>
+                      <h5>Music</h5>
+                      <p>https://composercarman.itch.io/wild-west-music</p>
+           </container>
   </body>
   
