@@ -14,7 +14,7 @@
                  shooting revolver if gun is not empty. Secondary mechanic is picking up Health(Whiskey) or Bullets. Horse only has one Life. Game over if horse dies.
                   </p>
                 <h5>Controls</h5>
-               <p id="paragraf">Normal WASD for left-right up-down. E for Jab. F for kick. G for gun. R for Reload.</p>
+               <p id="paragraf">Normal WASD for left-right up-down. J for Jab. I for Strong Punch. G for gun. R for Reload.</p>
                 <h5>Selling points</h5>
                  <p id="paragraf">Classic beat'em up, unusual setting and horses</p>
                 <h5>Technicals</h5>
