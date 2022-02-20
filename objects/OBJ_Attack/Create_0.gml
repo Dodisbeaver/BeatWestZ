@@ -5,7 +5,7 @@ depth = -1*y;
  
 Damage = 10;
 StunLength = 4;
-Owner = "Player";
+Owner = "";
 DMGFrame = 3;
 
 HitSound = SND_BasicPunch1;

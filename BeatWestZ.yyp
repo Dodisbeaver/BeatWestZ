@@ -18,7 +18,6 @@
     {"id":{"name":"SND_MissedPunch","path":"sounds/SND_MissedPunch/SND_MissedPunch.yy",},"order":1,},
     {"id":{"name":"SPR_PlayerStrongPunch","path":"sprites/SPR_PlayerStrongPunch/SPR_PlayerStrongPunch.yy",},"order":18,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
-    {"id":{"name":"SPR_StrongPunch_Hitbox","path":"sprites/SPR_StrongPunch_Hitbox/SPR_StrongPunch_Hitbox.yy",},"order":10,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":0,},
     {"id":{"name":"SPR_PlayerIdle","path":"sprites/SPR_PlayerIdle/SPR_PlayerIdle.yy",},"order":14,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
