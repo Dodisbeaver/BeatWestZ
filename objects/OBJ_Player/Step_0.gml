@@ -5,7 +5,8 @@ moveRight = keyboard_check(ord("D"));
 moveUp = keyboard_check(ord("W"));
 moveLeft = keyboard_check(ord("A"));
 moveDown = keyboard_check(ord("S"));
-
+if(dead)
+return;
 if(CurrentHP > 0){
 	
 	XSpeed = ((moveRight - moveLeft) * Speed* SpeedMod);
@@ -46,7 +47,7 @@ if(IsAttacking == false && IsHit = false){
 }
 
 }else{
-    instance_destroy();
+    event_user(1);
 }
 //If the player is on the ground, this sets their GroundY variable to their current y position
 if(OnGround == true){

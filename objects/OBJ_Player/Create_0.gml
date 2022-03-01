@@ -12,4 +12,7 @@ CurrentHP = MaxHP;
 IsHit = false;
 OnGround = true;
 GroundY = y;
+dead = false;
 image_speed = .75;
+	
+var MyCamera = instance_create_layer(x,y,"Instances", OBJ_Camera);

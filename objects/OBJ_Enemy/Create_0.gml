@@ -10,8 +10,14 @@ CurrentHP = MaxHP;
  
 OnGround = true;
 GroundY = y;
- 
+IsAttacking = false;
 image_speed = .75;
- 
-SideMod = 1;
 
+SideMod = 1;
+State = "Idle";
+SightRange = 350;
+Aggressiveness = 0;
+AttackRange = sprite_width/2+OBJ_Player.sprite_width/2;
+
+TargetX = x;
+TargetY = y;

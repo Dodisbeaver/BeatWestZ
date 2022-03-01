@@ -3,7 +3,7 @@
 //Same depth as player
 depth = -1*y;
  
-Damage = 10;
+Damage = 20*random(1);
 StunLength = 4;
 Owner = "";
 DMGFrame = 3;
