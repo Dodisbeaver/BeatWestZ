@@ -16,3 +16,4 @@ dead = false;
 image_speed = .75;
 	
 var MyCamera = instance_create_layer(x,y,"Instances", OBJ_Camera);
+instance_create_layer(x-10,y,"Instances", OBJ_Deshi);
