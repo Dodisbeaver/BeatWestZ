@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SPR_WesternTiles","path":"sprites/SPR_WesternTiles/SPR_WesternTiles.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SPR_WesternTiles",
     "tags": [],
     "resourceType": "GMSequence",

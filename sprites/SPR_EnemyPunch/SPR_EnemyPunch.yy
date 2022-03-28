@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SPR_EnemyPunch","path":"sprites/SPR_EnemyPunch/SPR_EnemyPunch.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SPR_EnemyPunch",
     "tags": [],
     "resourceType": "GMSequence",

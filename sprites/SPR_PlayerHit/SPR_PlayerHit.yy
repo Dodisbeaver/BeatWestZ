@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SPR_PlayerHit","path":"sprites/SPR_PlayerHit/SPR_PlayerHit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SPR_PlayerHit",
     "tags": [],
     "resourceType": "GMSequence",

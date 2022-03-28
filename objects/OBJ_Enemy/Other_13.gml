@@ -9,6 +9,13 @@ switch(State){
          
 	case "PositionFront":
 	case "PositionBehind":
+	if(instance_place(TargetX,TargetY,OBJ_Enemy) != noone && instance_place(TargetX,TargetY,OBJ_Enemy) != id){
+    if(State == "PositionFront"){
+        State = "PositionBehind";
+    }else{
+        State = "PositionFront";
+    }
+}
     if(point_distance(x,y,TargetX,TargetY) > 50){
         image_xscale = sign(TargetX-x);
     }else{

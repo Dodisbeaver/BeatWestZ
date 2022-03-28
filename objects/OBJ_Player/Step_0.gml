@@ -5,8 +5,10 @@ moveRight = keyboard_check(ord("D"));
 moveUp = keyboard_check(ord("W"));
 moveLeft = keyboard_check(ord("A"));
 moveDown = keyboard_check(ord("S"));
+
 if(dead)
 return;
+var MyBR = instance_nearest(x,y,OBJ_Fight_Area);
 if(CurrentHP > 0){
 	
 	XSpeed = ((moveRight - moveLeft) * Speed* SpeedMod);
@@ -15,6 +17,15 @@ if(CurrentHP > 0){
   
 
 if(IsAttacking == false && IsHit = false){
+	if(MyBR.IsActive == true){
+    if(point_in_rectangle(x+XSpeed*SpeedMod, y, MyBR.LeftEdge+35, MyBR.TopEdge, MyBR.RightEdge-35, MyBR.BottomEdge)==false ||  place_free(x+XSpeed*SpeedMod, y)==false){
+        XSpeed = 0;
+    }  
+     
+    if(point_in_rectangle(x, y+YSpeed*SpeedMod, MyBR.LeftEdge+35, MyBR.TopEdge, MyBR.RightEdge-35, MyBR.BottomEdge)==false || place_free(x, y+YSpeed*SpeedMod)==false){
+        YSpeed = 0;
+    }
+}
 		Cooldown -= 1;
 		//Check if moving x and y at same time
 		//If the player is on the ground move them with XSpeed and YSpeed, otherwise ignore YSpeed

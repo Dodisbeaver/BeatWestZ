@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SPR_RedEnemyWalking","path":"sprites/SPR_RedEnemyWalking/SPR_RedEnemyWalking.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SPR_RedEnemyWalking",
     "tags": [],
     "resourceType": "GMSequence",

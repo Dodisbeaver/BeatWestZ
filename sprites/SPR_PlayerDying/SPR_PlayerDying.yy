@@ -83,7 +83,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SPR_PlayerDying","path":"sprites/SPR_PlayerDying/SPR_PlayerDying.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SPR_PlayerDying",
     "tags": [],
     "resourceType": "GMSequence",

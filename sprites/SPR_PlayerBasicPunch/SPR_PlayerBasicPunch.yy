@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SPR_PlayerBasicPunch","path":"sprites/SPR_PlayerBasicPunch/SPR_PlayerBasicPunch.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SPR_PlayerBasicPunch",
     "tags": [],
     "resourceType": "GMSequence",

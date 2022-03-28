@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SPR_PlayerStrongPunch","path":"sprites/SPR_PlayerStrongPunch/SPR_PlayerStrongPunch.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SPR_PlayerStrongPunch",
     "tags": [],
     "resourceType": "GMSequence",

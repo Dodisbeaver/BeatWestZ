@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SPR_EnemyWalking","path":"sprites/SPR_EnemyWalking/SPR_EnemyWalking.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "SPR_EnemyWalking",
     "tags": [],
     "resourceType": "GMSequence",
