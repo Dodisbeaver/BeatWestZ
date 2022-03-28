@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SPR_TestTiles",
-    "path": "sprites/SPR_TestTiles/SPR_TestTiles.yy",
+    "name": "SPR_TestTiles1",
+    "path": "sprites/SPR_TestTiles1/SPR_TestTiles1.yy",
   },
   "tileWidth": 150,
   "tileHeight": 131,

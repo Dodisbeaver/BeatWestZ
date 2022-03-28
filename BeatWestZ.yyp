@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"SPR_TestTiles","path":"sprites/SPR_TestTiles/SPR_TestTiles.yy",},"order":27,},
+    {"id":{"name":"SPR_TestTiles1","path":"sprites/SPR_TestTiles1/SPR_TestTiles1.yy",},"order":27,},
     {"id":{"name":"SPR_BasicPunch_Hitbox","path":"sprites/SPR_BasicPunch_Hitbox/SPR_BasicPunch_Hitbox.yy",},"order":9,},
     {"id":{"name":"SPR_EnemyIdle","path":"sprites/SPR_EnemyIdle/SPR_EnemyIdle.yy",},"order":16,},
     {"id":{"name":"SPR_EnemyWalking","path":"sprites/SPR_EnemyWalking/SPR_EnemyWalking.yy",},"order":23,},
@@ -20,6 +20,7 @@
     {"id":{"name":"OBJ_Game","path":"objects/OBJ_Game/OBJ_Game.yy",},"order":2,},
     {"id":{"name":"OBJ_Attack_BasicPunch","path":"objects/OBJ_Attack_BasicPunch/OBJ_Attack_BasicPunch.yy",},"order":4,},
     {"id":{"name":"TILE_Tileset","path":"tilesets/TILE_Tileset/TILE_Tileset.yy",},"order":0,},
+    {"id":{"name":"SPR_Ninja","path":"sprites/SPR_Ninja/SPR_Ninja.yy",},"order":29,},
     {"id":{"name":"SPR_RedEnemyWalking","path":"sprites/SPR_RedEnemyWalking/SPR_RedEnemyWalking.yy",},"order":8,},
     {"id":{"name":"SND_MissedPunch","path":"sounds/SND_MissedPunch/SND_MissedPunch.yy",},"order":1,},
     {"id":{"name":"OBJ_Fight_Area","path":"objects/OBJ_Fight_Area/OBJ_Fight_Area.yy",},"order":7,},
@@ -29,7 +30,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":0,},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},"order":1,},
-    {"id":{"name":"SPR_WesternTiles","path":"sprites/SPR_WesternTiles/SPR_WesternTiles.yy",},"order":25,},
+    {"id":{"name":"SPR_TestTiles","path":"sprites/SPR_TestTiles/SPR_TestTiles.yy",},"order":25,},
     {"id":{"name":"SPR_PlayerIdle","path":"sprites/SPR_PlayerIdle/SPR_PlayerIdle.yy",},"order":14,},
     {"id":{"name":"OBJ_Camera","path":"objects/OBJ_Camera/OBJ_Camera.yy",},"order":6,},
     {"id":{"name":"SPR_PlayerDying","path":"sprites/SPR_PlayerDying/SPR_PlayerDying.yy",},"order":22,},
